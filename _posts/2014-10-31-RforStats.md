@@ -7,8 +7,8 @@ featured: true
 comments: true
 headline: Second Meeting
 categories: 
-  - membership
-tags: membership
+  - statistics
+tags: statistics
 ---
 
 * Meeting on October 31, 2014 at 4:00, Jepson 120, Gonzaga.
