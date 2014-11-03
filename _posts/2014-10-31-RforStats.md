@@ -21,4 +21,6 @@ tags: statistics
 What fun...<br>
 
 <img src="/images/2014-10-31 16.09.27.jpg" alt="Nate Burch, Stephen Hayes, Rollie Parrish and Ta-Tao Chuang" height="450" width="600">
+
+<br>
 <img src="/images/2014-10-31 16.10.39.jpg" alt="Too close to camera Vivek, James Hallett and Krisztian Magori" height="450" width="600">
