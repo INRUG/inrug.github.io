@@ -12,5 +12,7 @@ The group is being organized and we are in the process of identifying and gettin
 |2.  |[Shawn Bowers](http://www.cs.gonzaga.edu/~bowers/)      | smbowers@gmail.com  |
 |3.  |[Ta-Tao Chuang](http://www.gonzaga.edu/academics/colleges+and+schools/School+of+Business+Administration/Faculty/BMIS/Chuang.asp)     | chuang@jepson.gonzaga.edu  |
 |4.  |James Hallett     | jhallett@ewu.edu  |
-|5.  |[Krisztian Magori](http://kmagori.weebly.com)  | kmagori@gmail.com  |
-|6.  |[Vivek Patil](http://patilv.github.io)       | patilv@gmail.com   | 
+|5.  |Stephen Hayes     | hayess@gonzaga.edu  |
+|6.  |[Krisztian Magori](http://kmagori.weebly.com)  | kmagori@gmail.com  |
+|7.  |[Rollie Parrish] | rollie.parrish@gmail.com  |
+|8.  |[Vivek Patil](http://patilv.github.io)       | patilv@gmail.com   | 
