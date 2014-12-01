@@ -15,7 +15,8 @@ tags: statistics
 * In attendance: Nate Burch, Ta-Tao Chuang, James Hallett, Stephen Hayes, Krisztian Magori, Rollie Parrish and Vivek Patil
 * What happened: There were three new additions to the four from the earlier meeting. People introduced themselves - what they did, how they used R, and their length of experience with R. Krisztian led the discussion with the challenges he faced in teaching R to students with no background in computing or statistics (few of them were English majors). The practice that seemed to work was to give R scripts and to introduce tweaks to them. Few people also thought that separating the R part from concepts in statistics part in an introductory statistics course wasn't a good idea. If two courses were considered, it might be better to introduce R  after the statistics class, rather than before it. 
 
-* Next meeting: Dec 12, Friday, at 4:00 pm, Gonzaga. Room, TBD
+* Next meeting: Dec 12, Friday, at 4:00 pm, Gonzaga. Room, TBD  - ADVANCED TO DEC 5, AT 4:00, JEPSON 120, GONZAGA
+
 * Key speaker: Rollie Parrish on R markdown. 
 <br>
 What fun...<br>
