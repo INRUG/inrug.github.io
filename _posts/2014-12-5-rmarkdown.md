@@ -16,6 +16,10 @@ tags: statistics, work flow
 
 * What happened: Rollie Parrish introduced the ideas underlying reproducible research using R markdown. He informed the group about the usefulness of R-Studio as a well-featured IDE that eased the process of creating dynamic reports. A sample R markdown document was provided by Vivek Patil to the group.   
 
+[Rollie Parrish's presentation can be found here.](http://inrug.github.io/Presentations/RMarkdown/RmarkdownPresentation.html) It is being displayed from GitHub.
+
+The code for the presentation and all other Rmarkdown files shown during the talk by Rollie can be [found by here on GitHub.](https://github.com/INRUG/Presentations/tree/gh-pages/RMarkdown) 
+
 * Next meeting: Jan 30, 2015, Friday, at 4:00 pm, Gonzaga. Room, Jepson 120, unless a revision to this room number is made.  
 
 * Key speaker: Vivek Patil on creating shiny apps. 
