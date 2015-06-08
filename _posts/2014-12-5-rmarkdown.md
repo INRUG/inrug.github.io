@@ -7,8 +7,8 @@ featured: true
 comments: true
 headline: R Markdown
 categories: 
-  - statistics,"workflow"
-tags: statistics, "work flow"
+  - statistics, workflow
+tags: statistics, workflow
 ---
 
 * Meeting on 5 December, 2014 at 4:00, Jepson 120, Gonzaga.
