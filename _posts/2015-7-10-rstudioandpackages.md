@@ -20,9 +20,9 @@ Our next meeting is on August 14, 2015, Friday, at 4:00 pm, Gonzaga. Room: Jepso
 
 Presentation on R-Studio features (Presentation on Package development is beneath this.)
 
-<iframe width="100%" height="800" src="//inrug.github.io/Presentations/RStudioUpdates/RStudio_updates-rpubs.html#/" frameborder="0"> </iframe>
+<iframe width="100%" height="800" src="http://inrug.github.io/Presentations/RStudioUpdates/RStudio_updates-rpubs.html#/" frameborder="0"> </iframe>
 
-<iframe width="100%" height="800" src="//inrug.github.io/Presentations/IntroCreatingPackages/Intro_creating_R_packages.html#/" frameborder="0"> </iframe>
+<iframe width="100%" height="800" src="http://inrug.github.io/Presentations/IntroCreatingPackages/Intro_creating_R_packages.html#/" frameborder="0"> </iframe>
 
 
 
