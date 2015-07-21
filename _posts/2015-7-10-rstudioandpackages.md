@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "R as a Teaching Tool"
+title: "R-Studio IDE and R Package Development"
 mathjax: false
 featured: true
 comments: true
