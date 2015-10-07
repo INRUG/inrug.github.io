@@ -13,5 +13,5 @@ The group is being organized and we are in the process of identifying and gettin
 |3.  |James Hallett     | jhallett@ewu.edu  |
 |4.  |Stephen Hayes     | hayess@gonzaga.edu  |
 |5.  |[Krisztian Magori](http://kmagori.weebly.com)  | kmagori@gmail.com  |
-|6.  |[Rollie Parrish] | rollie.parrish@gmail.com  |
+|6.  |Rollie Parrish | rollie.parrish@gmail.com  |
 |7.  |[Vivek Patil](http://patilv.github.io)       | patilv@gmail.com   | 
